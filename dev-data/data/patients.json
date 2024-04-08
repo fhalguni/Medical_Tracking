@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@example.com",
+    "username": "rahulsharma123",
+    "password": "rahulpass456",
+    "hospital_name": "Apollo Hospitals, Delhi",
+    "doctor_name": "Dr. Gupta",
+    "surgery_date": "2024-03-10",
+    "discharge_date": "2024-03-15",
+    "disease": "Gallstones"
+  },
+  {
+    "name": "Priya Patel",
+    "email": "priya.patel@example.com",
+    "username": "priyapatel789",
+    "password": "priyapass123",
+    "hospital_name": "Fortis Hospital, Mumbai",
+    "doctor_name": "Dr. Desai",
+    "surgery_date": "2024-03-12",
+    "discharge_date": "2024-03-17",
+    "disease": "Appendicitis"
+  },
+  {
+    "name": "Ankit Singh",
+    "email": "ankit.singh@example.com",
+    "username": "ankitsingh456",
+    "password": "ankitpass789",
+    "hospital_name": "AIIMS, New Delhi",
+    "doctor_name": "Dr. Mishra",
+    "surgery_date": "2024-03-14",
+    "discharge_date": "2024-03-19",
+    "disease": "Fractured ankle"
+  },
+  {
+    "name": "Kavita Gupta",
+    "email": "kavita.gupta@example.com",
+    "username": "kavitagupta123",
+    "password": "kavitapass456",
+    "hospital_name": "Narayana Health, Bangalore",
+    "doctor_name": "Dr. Reddy",
+    "surgery_date": "2024-03-16",
+    "discharge_date": "2024-03-21",
+    "disease": "Pneumonia"
+  },
+  {
+    "name": "Amit Shah",
+    "email": "amit.shah@example.com",
+    "username": "amitshah789",
+    "password": "amitpass123",
+    "hospital_name": "Medanta - The Medicity, Gurgaon",
+    "doctor_name": "Dr. Singh",
+    "surgery_date": "2024-03-18",
+    "discharge_date": "2024-03-23",
+    "disease": "Broken arm"
+  },
+  {
+    "name": "Sneha Singh",
+    "email": "sneha.singh@example.com",
+    "username": "snehasingh123",
+    "password": "snehapass456",
+    "hospital_name": "Max Super Speciality Hospital, Delhi",
+    "doctor_name": "Dr. Chatterjee",
+    "surgery_date": "2024-03-20",
+    "discharge_date": "2024-03-25",
+    "disease": "Appendicitis"
+  },
+  {
+    "name": "Vikram Jain",
+    "email": "vikram.jain@example.com",
+    "username": "vikramjain789",
+    "password": "vikrampass123",
+    "hospital_name": "Sir Ganga Ram Hospital, Delhi",
+    "doctor_name": "Dr. Singhania",
+    "surgery_date": "2024-03-22",
+    "discharge_date": "2024-03-27",
+    "disease": "Fractured leg"
+  },
+  {
+    "name": "Neha Gupta",
+    "email": "neha.gupta@example.com",
+    "username": "nehagupta123",
+    "password": "nehapass456",
+    "hospital_name": "Manipal Hospital, Bangalore",
+    "doctor_name": "Dr. Rao",
+    "surgery_date": "2024-03-24",
+    "discharge_date": "2024-03-29",
+    "disease": "Appendicitis"
+  },
+  {
+    "name": "Rajesh Patel",
+    "email": "rajesh.patel@example.com",
+    "username": "rajeshpatel789",
+    "password": "rajeshpass123",
+    "hospital_name": "Aster CMI Hospital, Bangalore",
+    "doctor_name": "Dr. Kumar",
+    "surgery_date": "2024-03-26",
+    "discharge_date": "2024-03-31",
+    "disease": "Pneumonia"
+  },
+  {
+    "name": "Pooja Sharma",
+    "email": "pooja.sharma@example.com",
+    "username": "poojasharma123",
+    "password": "poojapass456",
+    "hospital_name": "Columbia Asia Hospital, Bangalore",
+    "doctor_name": "Dr. Gupta",
+    "surgery_date": "2024-03-28",
+    "discharge_date": "2024-04-02",
+    "disease": "Fractured wrist"
+  }
+]
